@@ -1,0 +1,4 @@
+[submodule "automationcreations/public"]
+	path = automationcreations/public
+	url = https://github.com/mmcelreath/mmcelreath.github.io.git
+	branch = main
