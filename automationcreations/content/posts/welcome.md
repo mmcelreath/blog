@@ -13,7 +13,7 @@ Currently, you can check out my YouTube channel for an introductory lab on using
 
 [https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA](https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA)
 
-[![Automation Creations YouTube Channel](./images/YouTubeChannel.png)](https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA "Automation Creations YouTube Channel")
+[![Automation Creations YouTube Channel](../images/YouTubeChannel.png)](https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA "Automation Creations YouTube Channel")
 
 # TechSnips
 
@@ -27,6 +27,6 @@ I did some videos for [TechSnips.com](https://techsnips.io/contributors/matt-mce
 - Azure Storage Accounts
 - OpenSSH on Windows
 
-[![TechSnips Contributor Page](./images/TechSnipsPage.png)](https://techsnips.io/contributors/matt-mcelreath/ "TechSnips Contributor Page")
+[![TechSnips Contributor Page](../images/TechSnipsPage.png)](https://techsnips.io/contributors/matt-mcelreath/ "TechSnips Contributor Page")
 
 I'd love to hear suggestions for content you'd like to see here or on the YouTube Channel so feel free to reach out on twitter. [@mmcelreath](https://twitter.com/Mmcelreath)
