@@ -1,0 +1,4 @@
+baseURL = 'http://mmcelreath.github.io/'
+languageCode = 'en-us'
+title = 'Automation Creations'
+theme = 'Hugo-Octopress'
