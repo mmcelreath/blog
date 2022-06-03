@@ -35,7 +35,7 @@ post = "/blog/:year-:month-:day-:title/"
 
   # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
   googleAnalytics = "G-NEGM8G2W31"
-
+  
   # Optional piwik tracking
   #[params.analytics.piwik]
   #  URL = "https://stats.example.com"
