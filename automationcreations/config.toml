@@ -34,7 +34,7 @@ post = "/blog/:year-:month-:day-:title/"
   continueReadingText = "Would you like to know more? &rarr;"
 
   # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
-#   googleAnalytics = "UA-XXXXX-X"
+  googleAnalytics = "G-NEGM8G2W31"
 
   # Optional piwik tracking
   #[params.analytics.piwik]
