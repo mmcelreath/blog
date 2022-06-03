@@ -70,10 +70,23 @@ post = "/blog/:year-:month-:day-:title/"
   # If this item does not exist or is set to false, then navigation menu links will open in the same window
   navigationNewWindow = true
 
+  sidebarMenuEnabled = true
+  sidebarMenuHeader = "Other Links"
+#   sidebarText = "Here's a [link to google](https://www.google.com)"
   github = "https://github.com/mmcelreath"
   twitter = "https://twitter.com/Mmcelreath"
   linkedin = "https://www.linkedin.com/in/matt-mcelreath-ma/"
   youtube = "https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA"
+
+[[menu.sidebar]]
+  Name = "Lab - Using Terraform With Azure Cloud"
+  URL = "https://www.youtube.com/playlist?list=PLfZeS9fyKE_uUjT08pHubkaATwf7mk4P0"
+  weight = 1
+
+[[menu.sidebar]]
+  Name = "Tutorial Videos"
+  URL = "https://www.youtube.com/playlist?list=PLfZeS9fyKE_uAguE-RwZyp08phGWTX5mj"
+  weight = 0
 
 [[menu.main]]
   Name = "Home"
@@ -88,7 +101,3 @@ post = "/blog/:year-:month-:day-:title/"
 [[menu.main]]
   Name = "TechSnips"
   URL = "https://techsnips.io/contributors/matt-mcelreath/"
-
-sidebarHeader = "Sidebar Header"
-
-sidebarText = "Here's a [link to google](https://www.google.com)"
