@@ -49,7 +49,7 @@ post = "/blog/:year-:month-:day-:title/"
   textrss = false
 
   # Website's default description
-  description = ""
+  description = "Test"
 
   # Populate with your search keywords - these will appear in meta tags
   defaultKeywords = ["automation" , "powershell" , "azure" , "terraform", "cloud", "tutorial", "web apps", "app service"]
@@ -65,3 +65,30 @@ post = "/blog/:year-:month-:day-:title/"
 
   # Remove or set to false to use FontAwesome CDN, otherwise, the theme uses ForkAwesome local fonts.
   # fontAwesome = false
+  
+  # If set to true, navigation menu links will open in a new window with the exception of links to root ("/")
+  # If this item does not exist or is set to false, then navigation menu links will open in the same window
+  navigationNewWindow = true
+
+  github = "https://github.com/mmcelreath"
+  twitter = "https://twitter.com/Mmcelreath"
+  linkedin = "https://www.linkedin.com/in/matt-mcelreath-ma/"
+  youtube = "https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA"
+
+[[menu.main]]
+  Name = "Home"
+  URL = "/"
+  weight = -10
+
+[[menu.main]]
+  Name = "YouTube Channel"
+  URL = "https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA"
+  weight = -5
+
+[[menu.main]]
+  Name = "TechSnips"
+  URL = "https://techsnips.io/contributors/matt-mcelreath/"
+
+sidebarHeader = "Sidebar Header"
+
+sidebarText = "Here's a [link to google](https://www.google.com)"
