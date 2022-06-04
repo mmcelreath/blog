@@ -5,7 +5,7 @@ date: 2022-06-02T22:23:08-04:00
 
 I was looking through the [Terraform Documentation for the AzureRM provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest) the other day, and I came across an note on the azurerm_app_Service page.
 
-[![azurerm_app_service deprecation note](../images/YouTubeChannel.png)](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/app_service "azurerm_app_service deprecation note")
+[![azurerm_app_service deprecation note](../../images/azurerm_app_service_note.png)](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/app_service "azurerm_app_service deprecation note")
 
 The following resources have been deprecated in version 3.0 and will be removed in version 4.0:
 
