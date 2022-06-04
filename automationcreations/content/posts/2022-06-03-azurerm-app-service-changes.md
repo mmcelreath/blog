@@ -24,7 +24,7 @@ They are replaced by the following new resource types:
 
 For more details on these changes, I put together a video where I explore some of the differences between the old and new resouces that I have noticed. Feel free to check it out.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/o5JUm4f-Ru4/0.jpg)](https://www.youtube.com/watch?v=o5JUm4f-Ru4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yOjGsNCvDv4/0.jpg)](https://www.youtube.com/watch?v=yOjGsNCvDv4)
 
 
 Here are a few key changes that I noticed so far, aside from the name changes:
@@ -397,3 +397,4 @@ resource "azurerm_windows_function_app" "functionapp_windows_new" {
   site_config {}
 }
 ```
+
